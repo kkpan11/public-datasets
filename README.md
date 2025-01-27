@@ -4,6 +4,7 @@ A collection of public data sets for testing out visualization methods. These da
 
 Most recently added on the top.
 
+ * [eCharts Sample Datasets](https://github.com/apache/echarts-examples/tree/gh-pages/public/data/asset/data)
  * [Gothenburg Quality of Government Expert Survey](https://www.gu.se/en/quality-government/qog-data/data-downloads/qog-expert-survey)
  * [UN Human Development Index](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)
  * [Vega Datasets](https://github.com/vega/vega-datasets/tree/main)
